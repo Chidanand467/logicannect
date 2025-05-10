@@ -26,7 +26,7 @@ LogiConnect is a centralized digital platform to help MSMEs (Micro, Small & Medi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/logiconnect.git
+git clone https://github.com/chidanand467/logiconnect.git
 cd logiconnect
 ```
 
