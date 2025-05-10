@@ -73,9 +73,11 @@ npm run dev
 
 ## Contributors
 
-- Team Name: *[Your Team Name]*
-- Members: *[Your Names Here]*
+- Team Name: The Voyegers
+- Members: Chidanand K
+           Gajanan P
+           Karthik H
 
 ## License
 
-MIT License © 2025 [Your Team Name]
+MIT License © 2025 The Voyegers
