@@ -1,7 +1,7 @@
 
-# MSME Logistics Coordination Platform
+# LogiConnect
 
-A centralized digital platform to help MSMEs (Micro, Small & Medium Enterprises) manage logistics, automate pricing, resolve disputes, and track deliveries in real time.
+LogiConnect is a centralized digital platform to help MSMEs (Micro, Small & Medium Enterprises) manage logistics, automate pricing, resolve disputes, and track deliveries in real time.
 
 ## Features
 
@@ -26,8 +26,8 @@ A centralized digital platform to help MSMEs (Micro, Small & Medium Enterprises)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/msme-logistics-platform.git
-cd msme-logistics-platform
+git clone https://github.com/your-username/logiconnect.git
+cd logiconnect
 ```
 
 ### 2. Install frontend dependencies
